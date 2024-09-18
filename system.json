@@ -7,9 +7,9 @@
     "minimum": "12.331",
     "verified": "12"
   },
-  "url": "https://github.com/nikgohn/dnd5e_daligos/",
-  "manifest": "https://raw.githubusercontent.com/nikgohn/dnd5e_daligos/master/system.json",
-  "download": "https://github.com/nikgohn/dnd5e_daligos/releases/download/release-4.0.1/dnd5e-release-4.0.1.zip",
+  "url": "https://github.com/nikgohn/dnd5e/",
+  "manifest": "https://raw.githubusercontent.com/nikgohn/dnd5e/master/system.json",
+  "download": "https://github.com/nikgohn/dnd5e_daligos/releases/download/release/dnd5e-rezip.zip",
   "authors": [
     {
       "name": "Atropos",
